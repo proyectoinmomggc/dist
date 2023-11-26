@@ -1,1 +1,0 @@
-git clone https://github.com/proyectoinmomggc/dist.git
